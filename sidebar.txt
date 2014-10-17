@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nca:home|Door43 (nca)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nca|d43-nca repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nca/archive/master.zip|d43-nca.zip]]
+
+**Recent Changes**
+{{changes>ns = nca}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nca|Ethnologue data]]
+
